@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+outputs/full_recon_result.json
+outputs/reduced_recon_result.json
+outputs/reduced_A.csv
+outputs/reduced_B.csv
+outputs/sha256_manifest.txt
+outputs/equivalence_report.txt
+rem_recon_proof.egg-info/
